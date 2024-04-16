@@ -33,5 +33,5 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 
 # Canali social
 
-Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). Contattami usi social o alla mail [federico.dattila@polito.it](federico.dattila@polito.it)!
+Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). Contattami usi social o alla mail [federico.dattila@polito.it](mailto:federico.dattila@polito.it)!
 
