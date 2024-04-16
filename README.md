@@ -39,7 +39,7 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 [![Applications of VASP to electrochemical systems - Tutorial to the fourth class](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)
 [![Applications of VASP to electrochemical systems - Visualizing cations with Blender](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
 
-# Canali social
+# Canali social & Contatti
 
 Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). Contattami usi social o alla mail [federico.dattila@polito.it](mailto:federico.dattila@polito.it)!
 
