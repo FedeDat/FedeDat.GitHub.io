@@ -8,7 +8,7 @@ Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004)
 
 # Canali social
 
-Puoi trovarmi su [LinkedIn](https://www.linkedin.com/in/tuonome/) per ulteriori informazioni sulla mia esperienza e sul mio background professionale.
+Puoi trovarmi su [X], ex Twitter ([https://twitter.com/FedeDat]) e [LinkedIn]([https://www.linkedin.com/in/federico-dattila/]) per ulteriori informazioni sulla mia esperienza e sul mio background professionale.
 
 # Divulgazione Scientifica
 
