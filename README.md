@@ -1,6 +1,6 @@
 # Prossime attività
 
-Mi trovi alla Biennale Tecnologia di Torino! 
+Mi trovi alla Biennale Tecnologia di Torino con il gioco **A caccia di CO<sub>2</sub>!**  
 [Sabato 20 aprile ore 10:30-11:20](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/)
 
 # Chi sono?
@@ -12,6 +12,7 @@ Sono un fisico con un dottorato di ricerca in chimica. Ho vissuto 5 anni in Spag
 # Di cosa mi occupo?
 
 Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004) nell'ambito della conversione elettrochimica dell'anidride carbonica in prodotti utili.
+
 ![eu_funded_en](https://github.com/FedeDat/FedeDat.GitHub.io/assets/79327055/ac662dee-cc5f-4ee6-b22b-01d4fdcbf456)
 
 
