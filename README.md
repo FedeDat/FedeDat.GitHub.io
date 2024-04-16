@@ -6,10 +6,6 @@ Sono un fisico con un dottorato di ricerca in chimica. Ho vissuto 5 anni in Spag
 
 Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004) nell'ambito della conversione elettrochimica dell'anidride carbonica in prodotti utili.
 
-# Canali social
-
-Puoi trovarmi su [X], ex Twitter ([https://twitter.com/FedeDat]) e [LinkedIn]([https://www.linkedin.com/in/federico-dattila/]) per ulteriori informazioni sulla mia esperienza e sul mio background professionale.
-
 # Divulgazione Scientifica
 
 Guarda le mie attività di divulgazione scientifica!
@@ -32,3 +28,7 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 [![Video 11](https://img.youtube.com/vi/xY1oFCHlyVU/0.jpg)](https://www.youtube.com/watch?v=xY1oFCHlyVU)
 [![Video 12](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)
 [![Video 13](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
+
+# Canali social
+
+Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/).
