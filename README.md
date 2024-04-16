@@ -2,18 +2,20 @@
 
 Sono un fisico con un dottorato di ricerca in chimica. Ho vissuto 5 anni in Spagna. Lavoro al Politecnico di Torino presso il Dipartimento di Scienza e Tecnologia Avanzata.
 
+![Federico_Dattila_no-background](https://github.com/FedeDat/FedeDat.GitHub.io/assets/79327055/daf1ca64-fc9d-4760-8a82-60b6bc418261)
+
 # Di cosa mi occupo?
 
 Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004) nell'ambito della conversione elettrochimica dell'anidride carbonica in prodotti utili.
 
 # Divulgazione scientifica
 
-Guarda le mie attività di divulgazione scientifica!
+Guarda le mie attività di divulgazione scientifica, in lingua spagnola e italiana!
 
-[![FameLab Italia - Selezione Finale Torino 2022](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
-[![FameLab Italia - Finale nazionale 2022](https://img.youtube.com/vi/OBpRP93BrFg/0.jpg)](https://www.youtube.com/watch?v=OBpRP93BrFg)
 [![Concorso "Vols saber què investigo?" 2018](https://img.youtube.com/vi/jDeX1o5lK1w/0.jpg)](https://www.youtube.com/watch?v=jDeX1o5lK1w)
 [![Notte Europea dei Ricercatori - 2021](https://img.youtube.com/vi/d6NfSE_7PA0/0.jpg)](https://www.youtube.com/watch?v=d6NfSE_7PA0)
+[![FameLab Italia - Selezione Finale Torino 2022](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
+[![FameLab Italia - Finale nazionale 2022](https://img.youtube.com/vi/OBpRP93BrFg/0.jpg)](https://www.youtube.com/watch?v=OBpRP93BrFg)
 
 # Corsi
 
@@ -31,4 +33,5 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 
 # Canali social
 
-Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/).
+Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). Contattami usi social o alla mail [federico.dattila@polito.it](federico.dattila@polito.it)!
+
