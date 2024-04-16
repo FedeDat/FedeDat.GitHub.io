@@ -1,3 +1,8 @@
+# Prossime attività
+
+Mi trovi alla Biennale Tecnologia di Torino! 
+Posti ancora disponibili: [Sabato 20 aprile ore 10:30-11:20](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/)
+
 # Chi sono?
 
 Sono un fisico con un dottorato di ricerca in chimica. Ho vissuto 5 anni in Spagna. Lavoro al Politecnico di Torino presso il Dipartimento di Scienza e Tecnologia Avanzata.
