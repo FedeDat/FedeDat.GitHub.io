@@ -27,7 +27,7 @@ Guarda le mie attività di divulgazione scientifica, in lingua spagnola e italia
 
 # Corsi
 
-Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disponibile in lingua inglese)
+Guarda il corso online _Applicazioni di VASP a sistemi elettrochimici_ (disponibile in lingua inglese)
 
 [![Applications of VASP to electrochemical systems - First class](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)
 [![Applications of VASP to electrochemical systems - Tutorial to the first class](https://img.youtube.com/vi/iMPbEImDGlg/0.jpg)](https://www.youtube.com/watch?v=iMPbEImDGlg)
@@ -41,5 +41,6 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 
 # Canali social & Contatti
 
-Puoi trovarmi su [X](https://twitter.com/FedeDat), ex Twitter e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). Contattami usi social o alla mail [federico.dattila@polito.it](mailto:federico.dattila@polito.it)!
+Puoi trovarmi su [Twitter](https://twitter.com/FedeDat) (alias X) e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). 
+Contattami sui canali social o alla mail [federico.dattila@polito.it](mailto:federico.dattila@polito.it)!
 
