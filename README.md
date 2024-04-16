@@ -24,6 +24,4 @@ Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disp
 
 
 [![Guarda il mio video su YouTube](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-```
 
-Assicurati di sostituire `VIDEO_ID_HERE` con l'ID effettivo del video di YouTube che desideri incorporare.
