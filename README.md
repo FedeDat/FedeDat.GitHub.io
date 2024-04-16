@@ -6,7 +6,7 @@ Sono un fisico con un dottorato di ricerca in chimica. Ho vissuto 5 anni in Spag
 
 Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004) nell'ambito della conversione elettrochimica dell'anidride carbonica in prodotti utili.
 
-# Divulgazione Scientifica
+# Divulgazione scientifica
 
 Guarda le mie attività di divulgazione scientifica!
 
