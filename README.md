@@ -10,24 +10,24 @@ Lavoro per il progetto [SuPERCO2](https://cordis.europa.eu/project/id/101104004)
 
 Guarda le mie attività di divulgazione scientifica!
 
-[![Video 1](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
-[![Video 2](https://img.youtube.com/vi/OBpRP93BrFg/0.jpg)](https://www.youtube.com/watch?v=OBpRP93BrFg)
-[![Video 3](https://img.youtube.com/vi/jDeX1o5lK1w/0.jpg)](https://www.youtube.com/watch?v=jDeX1o5lK1w)
-[![Video 4](https://img.youtube.com/vi/d6NfSE_7PA0/0.jpg)](https://www.youtube.com/watch?v=d6NfSE_7PA0)
+[![FameLab Italia - Selezione Finale Torino 2022](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
+[![FameLab Italia - Finale nazionale 2022](https://img.youtube.com/vi/OBpRP93BrFg/0.jpg)](https://www.youtube.com/watch?v=OBpRP93BrFg)
+[![Concorso "Vols saber què investigo?" 2018](https://img.youtube.com/vi/jDeX1o5lK1w/0.jpg)](https://www.youtube.com/watch?v=jDeX1o5lK1w)
+[![Notte Europea dei Ricercatori - 2021](https://img.youtube.com/vi/d6NfSE_7PA0/0.jpg)](https://www.youtube.com/watch?v=d6NfSE_7PA0)
 
 # Corsi
 
 Guarda il video tutorial per Applicazioni di VASP a sistemi elettrochimici (disponibile in lingua inglese)
 
-[![Video 5](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)
-[![Video 6](https://img.youtube.com/vi/iMPbEImDGlg/0.jpg)](https://www.youtube.com/watch?v=iMPbEImDGlg)
-[![Video 7](https://img.youtube.com/vi/ZLqVEVwZmkY/0.jpg)](https://www.youtube.com/watch?v=ZLqVEVwZmkY)
-[![Video 8](https://img.youtube.com/vi/YyuFrppO_9g/0.jpg)](https://www.youtube.com/watch?v=YyuFrppO_9g)
-[![Video 9](https://img.youtube.com/vi/aV_dNwFq7QE/0.jpg)](https://www.youtube.com/watch?v=aV_dNwFq7QE)
-[![Video 10](https://img.youtube.com/vi/mxQ14gX_C0Y/0.jpg)](https://www.youtube.com/watch?v=mxQ14gX_C0Y)
-[![Video 11](https://img.youtube.com/vi/xY1oFCHlyVU/0.jpg)](https://www.youtube.com/watch?v=xY1oFCHlyVU)
-[![Video 12](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)
-[![Video 13](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
+[![Applications of VASP to electrochemical systems - First class](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)
+[![Applications of VASP to electrochemical systems - Tutorial to the first class](https://img.youtube.com/vi/iMPbEImDGlg/0.jpg)](https://www.youtube.com/watch?v=iMPbEImDGlg)
+[![Applications of VASP to electrochemical systems - Second class](https://img.youtube.com/vi/ZLqVEVwZmkY/0.jpg)](https://www.youtube.com/watch?v=ZLqVEVwZmkY)
+[![Applications of VASP to electrochemical systems - Tutorial to the second class](https://img.youtube.com/vi/YyuFrppO_9g/0.jpg)](https://www.youtube.com/watch?v=YyuFrppO_9g)
+[![Applications of VASP to electrochemical systems - Third class](https://img.youtube.com/vi/aV_dNwFq7QE/0.jpg)](https://www.youtube.com/watch?v=aV_dNwFq7QE)
+[![Applications of VASP to electrochemical systems - Tutorial to the third class](https://img.youtube.com/vi/mxQ14gX_C0Y/0.jpg)](https://www.youtube.com/watch?v=mxQ14gX_C0Y)
+[![Applications of VASP to electrochemical systems - Fourth class](https://img.youtube.com/vi/xY1oFCHlyVU/0.jpg)](https://www.youtube.com/watch?v=xY1oFCHlyVU)
+[![Applications of VASP to electrochemical systems - Tutorial to the fourth class](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)
+[![Applications of VASP to electrochemical systems - Visualizing cations with Blender](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
 
 # Canali social
 
