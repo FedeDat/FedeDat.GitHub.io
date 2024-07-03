@@ -1,7 +1,6 @@
 # Prossime attività
 
-Mi trovi alla Biennale Tecnologia di Torino con il gioco **A caccia di CO<sub>2</sub>!**  
-[Sabato 20 aprile ore 10:30-11:20](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/)
+A settembre mi troverai alla Notte Europea dei Ricercatori UNIGHT con il gioco **A caccia di CO<sub>2</sub>!**. Puoi vedere [qui](https://unightproject.eu/en) la passata edizione!
 
 # Chi sono?
 
