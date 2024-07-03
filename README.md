@@ -1,6 +1,6 @@
 # Prossime attività
 
-A settembre mi troverai alla Notte Europea dei Ricercatori UNIGHT con il gioco **A caccia di CO<sub>2</sub>!**. Puoi vedere [qui](https://unightproject.eu/en) la passata edizione!
+Il 27 e 28 settembre 2024 mi troverai alla Notte Europea dei Ricercatori UNIGHT con il gioco **A caccia di CO<sub>2</sub>!**. Puoi vedere [qui](https://unightproject.eu/en) la passata edizione!
 
 # Chi sono?
 
