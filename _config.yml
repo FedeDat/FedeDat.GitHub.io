@@ -1,6 +1,6 @@
 title: "Federico Dattila - A researcher seeking to reduce carbon dioxide "
 email: "federico.dattila@polito.it"
-description: "Welcome to the personal website of Federico Dattila, featuring research, science communication, and courses."
+description: "Welcome to my personal website, featuring myself, my research, my communication activities."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
 
@@ -45,8 +45,6 @@ theme: minima
 footer:
   hosting: "Hosted on GitHub Pages"
   theme_credit: "Using Minima theme"
-
-
 
 # SEO settings
 jekyll-seo-tag:
