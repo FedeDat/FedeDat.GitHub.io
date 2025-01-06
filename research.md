@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # Current activity
-I currently work within the project [SuPERCO2](https://cordis.europa.eu/project/id/101104004), which aims at the electrochemical conversion of CO<sub>2</sub> to useful products. 
+I currently work within the project [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004), which aims at the electrochemical conversion of CO<sub>2</sub> to useful products. 
 
 > The use of fossil fuels has greatly increased CO<sub>2</sub> levels, driving climate change. While renewable energy sources like solar and wind power offer solutions for energy, most chemical production still relies on fossil fuels. The SuPERCO2 project aims to convert CO<sub>2</sub> into valuable chemicals like ethanol and ethylene using electrochemical cells.
 
@@ -18,6 +18,8 @@ SuPERCO2 addresses three specific Research & Innovation Objectives (R&IOs):
 (ii) R&IO-2 (WP.2, T.2.2): Development of a multiscale model including atomistic insights from density functional theory (DFT) and mass transfer effects from COMSOL modeling to guide optimization of GDEs.
 
 (iii) R&IO-3 (WP.3, T.3.3): Manufacture of copper-, nickel- and bimetals-based GDEs (10 cm<sup>2</sup> electrode area) applying insights from R&IO-1 and R&IO-2 in collaboration with Teijin. The GDEs aim at values of activity, selectivity, and stability suitable for industrial scale up, i.e. > 200 mA cm<sup>-2</sup> eCO2R partial current density, >90%, >70%, and 10% F.E toward ethylene, ethanol, and C<sub>3+</sub> hydrocarbons respectively during >50-500 hours operation. 
+
+![SuPERCO2-scheme](https://github.com/user-attachments/assets/a32509d9-7ac5-47bb-b4f2-7b71f778bf0c)
 
 
 # Publications
