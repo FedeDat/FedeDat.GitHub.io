@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Research"
+permalink: /research/
+---
 # Research
 
 I currently work within the project [SuPERCO2](https://cordis.europa.eu/project/id/101104004), which aims at the electrochemical conversion of CO<sub>2</sub> to useful products. 
