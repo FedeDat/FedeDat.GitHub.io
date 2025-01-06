@@ -4,10 +4,10 @@ title: "Courses"
 permalink: /courses/
 ---
 
-# How to write an (un)successful European Marie Skłodowska-Curie Individual Fellowship proposal (in English)
+# How to apply for a Marie Skłodowska-Curie (in English)
 Pitch given during November 2024 by Dr. Federico Dattila, recipient of a Marie Skłodowska-Curie European Individual Fellowship within the project SuPERCO2-101104004, in the panel CHE (Chemistry), Supervisor: Prof. Simelys Hernández, Host: Politecnico di Torino. Pitch organized by Commissione Progetti of the Department of the Applied Science and Technology (DISAT).
 
-[![https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
+[![How to write an (un)successful European Marie Skłodowska-Curie Individual Fellowship proposal]([https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg))](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
 
 # Applications of VASP to electochemical systems (in English)
 A must watch playlist to get used to applications of DFT to electrochemical systems!
