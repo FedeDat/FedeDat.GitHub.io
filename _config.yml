@@ -13,6 +13,8 @@ nav:
     url: "/about/"
   - title: "Research"
     url: "/research/"
+  - title: "Book a communication talk"
+    url: "/talk/"
   - title: "Courses"
     url: "/courses/"
   - title: "Science Communication"
