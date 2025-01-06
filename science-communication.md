@@ -1,5 +1,9 @@
-
-# Outreach
+---
+layout: page
+title: "Science Communication"
+permalink: /science-communication/
+---
+# Science Communication
 
 Here the link to access my outreach activities, in English, Italian, and Spanish.
 
