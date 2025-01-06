@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Book an outreach activity"
+title: "Book an activity"
+order: 2
 permalink: /talk/
 ---
 
