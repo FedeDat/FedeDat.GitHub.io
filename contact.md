@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contacts"
+order: 6
 permalink: /contacts/
 ---
 # Contacts
