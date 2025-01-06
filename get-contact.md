@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contacts"
-Nav_order: 6
+order: 6
 permalink: /contact/
 ---
 # Contacts
