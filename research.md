@@ -8,7 +8,7 @@ permalink: /research/
 I currently work within the project [SuPERCO2](https://cordis.europa.eu/project/id/101104004), which aims at the electrochemical conversion of CO<sub>2</sub> to useful products. 
 
 # Publications
-You can access my publications and academic work on my [ORCID profile](https://orcid.org/0000-0001-8195-3951).
+You can access my publications on my [ORCID profile](https://orcid.org/0000-0001-8195-3951). All open access versions are available on my [Google Scholar](https://scholar.google.com/citations?user=wSmp_OwAAAAJ&hl=it) profile.
 
 1.	<ins>Dattila, F.</ins>; Fortunati, A.; Zammillo, F.; Guzmán, H.; López, N.; Hernández, S. [Descriptors for Electrochemical CO<sub>2</sub> Reduction in Imidazolium-Based Electrolytes](https://doi.org/10.1021/acscatal.4c05012). _ACS Catal._, __2024__, _14_, 16166–16174.
 2.	Zhan, C.†; <ins>Dattila, F.</ins>†; Rettenmaier, C.; Herzog, A.; Herran, M.; Wagner, T.; Scholten, F.; Bergmann, A.; López, N.; Roldan Cuenya, B. [https://doi.org/10.1038/s41560-024-01633-4](Key Intermediates and Cu active sites for CO<sub>2</sub> electroreduction to ethylene and ethanol). _Nat. Energy_ __2024__, _9_, 1485–1496. † = Equal contribution.
