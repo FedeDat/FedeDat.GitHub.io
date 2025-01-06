@@ -8,18 +8,12 @@ twitter_username: "fededat"
 # Navigation
 nav:
   - Home: /
-  - title: "About Me"
-    url: "/about/"
-  - title: "Research"
-    url: "/research/"
-  - title: "Book an outreach activity"
-    url: "/talk/"
-  - title: "Courses"
-    url: "/courses/"
-  - title: "Upcoming Events"
-    url: "/events/"
-  - title: "Contacts"
-    url: "/contact/"
+  - About Me: /about/
+  - Book an outreach activity: /talk/
+  - Upcoming Events: /events/
+  - Research: /research/
+  - Courses: /courses/
+  - Contacts: /contact/
 
 # Defaults
 defaults:
