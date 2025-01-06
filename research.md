@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-nav_order: 4
+Nav_order: 4
 permalink: /research/
 ---
 
