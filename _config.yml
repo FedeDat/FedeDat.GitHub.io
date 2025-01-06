@@ -7,8 +7,7 @@ twitter_username: "fededat"
 
 # Navigation
 nav:
-  - title: "Home"
-    url: "/"
+  - Home: /
   - title: "About Me"
     url: "/about/"
   - title: "Research"
