@@ -5,5 +5,12 @@
       <img src="{{ site.baseurl }}{{ site.logo }}" alt="Federico Dattila Logo" style="height: 300px;">
     </a>
   </div>
-</header>
 
+  <nav>
+    <ul>
+      {% for item in site.nav %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
