@@ -1,6 +1,6 @@
 title: "Federico Dattila - Personal Website"
 email: "federico.dattila@polito.it"
-description: "Welcome to the personal website of Federico D'Agostino, featuring research, science communication, and courses."
+description: "Welcome to the personal website of Federico Dattila, featuring research, science communication, and courses."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
 twitter_username: "fededat"
@@ -47,7 +47,7 @@ plugins:
   - jekyll-sitemap
 
 # Theme configuration (optional, if using a specific theme)
-theme: minima
+theme: Reverie
 
 # Footer information
 footer:
