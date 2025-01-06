@@ -8,7 +8,7 @@ url: "https://fededat.github.io" # Your GitHub Pages URL
 nav:
   - Home: /
   - About Me: /about/
-  - Book an outreach activity: /talk/
+  - Book an activity: /talk/
   - Upcoming Events: /events/
   - Research: /research/
   - Courses: /courses/
