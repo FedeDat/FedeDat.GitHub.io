@@ -3,7 +3,6 @@ email: "federico.dattila@polito.it"
 description: "Welcome to the personal website of Federico Dattila, featuring research, science communication, and courses."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
-twitter_username: "fededat"
 
 # Navigation
 nav:
