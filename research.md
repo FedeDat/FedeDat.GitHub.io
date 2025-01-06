@@ -31,6 +31,7 @@ You can access my publications and academic work on my [ORCID profile](https://o
 
 #	Supervising and mentoring activities
 May 2024 / ongoing - Supervisor of 1 Ph.D. student and 1 Master student.
+
 March 2020 / December 2021 - Supervisor of 2 Ph.D. students and 1 Master student.
  
 #	Organization of international conferences
