@@ -3,7 +3,6 @@ layout: page
 title: "Courses"
 permalink: /courses/
 ---
-# Courses
 
 You can access the online course _Applications of VASP to electochemical systems_ (available only in English)
 
