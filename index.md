@@ -1,3 +1,10 @@
+{% assign sorted_pages = site.pages | sort: 'order' %}
+<ul>
+  {% for page in sorted_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
 > The use of fossil fuels has greatly increased CO<sub>2</sub> levels, driving climate change. While renewable energy sources like solar and wind power offer solutions for energy, most chemical production still relies on fossil fuels. The SuPERCO2 project aims to convert CO<sub>2</sub> into valuable chemicals like ethanol and ethylene using electrochemical cells.
