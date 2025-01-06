@@ -14,6 +14,14 @@ nav:
   - Courses: /courses/
   - Contacts: /contact/
 
+header_pages:
+  - about.md
+  - talk.md
+  - events.md
+  - research.md
+  - courses.md
+  - contact.md
+
 # Defaults
 defaults:
   - scope:
