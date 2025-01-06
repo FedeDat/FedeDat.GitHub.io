@@ -1,2 +1,6 @@
-
-A life toward Science
+---
+layout: page
+title: "A scientific life"
+permalink: /
+---
+bla bla bla
