@@ -1,6 +1,60 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Federico Dattila - Personal Website"
+email: "federico.dattila@polito.it"
+description: "Welcome to the personal website of Federico D'Agostino, featuring research, science communication, and courses."
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://fededat.github.io" # Your GitHub Pages URL
+twitter_username: "fededat"
 
-title: [Dr. Federico Dattila]
-description: [Un ricercatore a caccia di CO<sub>2</sub>!]
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Upcoming Events"
+    url: "/events/"
+  - title: "Science Communication"
+    url: "/science-communication/"
+  - title: "Courses"
+    url: "/courses/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from processing
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Theme configuration (optional, if using a specific theme)
+theme: minima
+
+# Footer information
+footer:
+  hosting: "Hosted on GitHub Pages"
+  theme_credit: "Using Minima theme"
+
+# SEO settings
+jekyll-seo-tag:
+  lang: "en"
+  author: "Federico Dattila"
