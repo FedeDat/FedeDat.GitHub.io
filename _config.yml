@@ -5,9 +5,6 @@ baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
 twitter_username: "fededat"
 
-# Logo Image Path (Add this line)
-logo: "/assets/images/SUPERCO2_TOP_WEB.jpg"
-
 # Navigation
 nav:
   - title: "Home"
