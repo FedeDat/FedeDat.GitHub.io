@@ -39,7 +39,7 @@ plugins:
   - jekyll-sitemap
 
 # Theme configuration (optional, if using a specific theme)
-theme: minima
+theme: jekyll-theme-millennial
 
 # Footer information
 footer:
