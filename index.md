@@ -1,1 +1,5 @@
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
+
+> The use of fossil fuels has greatly increased CO<sub>2</sub> levels, driving climate change. While renewable energy sources like solar and wind power offer solutions for energy, most chemical production still relies on fossil fuels. The SuPERCO2 project aims to convert CO<sub>2</sub> into valuable chemicals like ethanol and ethylene using electrochemical cells.
+
+> Surface Polarization, Evolution, and Reconstruction for CO<sub>2</sub> Reduction (SuPERCO2) targets the rational design of reproducible Gas Diffusion Electrodes (GDEs) for electrochemical CO<sub>2</sub> reduction (eCO<sub>2</sub>R) to ethylene, ethanol, and C<sub>23+</sub> hydrocarbons. Reproducibility is ensured by the creation of an open-source database to store experimental data on synthesis and eCO<sub>2</sub>R performance and a multiscale model accounting for both atomistic and mass transfer effects.
