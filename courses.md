@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Courses"
+order: 5
 permalink: /courses/
 ---
 
