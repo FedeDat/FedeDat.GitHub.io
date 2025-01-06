@@ -13,28 +13,37 @@ Pitch given during November 2024 by Dr. Federico Dattila, recipient of a Marie S
 A must watch playlist to get used to applications of DFT to electrochemical systems!
 
 1 First class
+
 [![Applications of VASP to electrochemical systems - First class](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)
 
 2 Tutorial to the first class
+
 [![Applications of VASP to electrochemical systems - Tutorial to the first class](https://img.youtube.com/vi/iMPbEImDGlg/0.jpg)](https://www.youtube.com/watch?v=iMPbEImDGlg)
 
 3 Second class
+
 [![Applications of VASP to electrochemical systems - Second class](https://img.youtube.com/vi/ZLqVEVwZmkY/0.jpg)](https://www.youtube.com/watch?v=ZLqVEVwZmkY)
 
 4 Tutorial to the second class
+
 [![Applications of VASP to electrochemical systems - Tutorial to the second class](https://img.youtube.com/vi/YyuFrppO_9g/0.jpg)](https://www.youtube.com/watch?v=YyuFrppO_9g)
 
 5 Third class
+
 [![Applications of VASP to electrochemical systems - Third class](https://img.youtube.com/vi/aV_dNwFq7QE/0.jpg)](https://www.youtube.com/watch?v=aV_dNwFq7QE)
 
 6 Tutorial to the third class
+
 [![Applications of VASP to electrochemical systems - Tutorial to the third class](https://img.youtube.com/vi/mxQ14gX_C0Y/0.jpg)](https://www.youtube.com/watch?v=mxQ14gX_C0Y)
 
 7 Fourth class
+
 [![Applications of VASP to electrochemical systems - Fourth class](https://img.youtube.com/vi/xY1oFCHlyVU/0.jpg)](https://www.youtube.com/watch?v=xY1oFCHlyVU)
 
 8 Tutorial to the fourth class
+
 [![Applications of VASP to electrochemical systems - Tutorial to the fourth class](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)
 
 9 Visualizing cations with Blender
+
 [![Applications of VASP to electrochemical systems - Visualizing cations with Blender](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
