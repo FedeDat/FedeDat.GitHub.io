@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Upcoming events"
+order: 3
 permalink: /events/
 ---
 
