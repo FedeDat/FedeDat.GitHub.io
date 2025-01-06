@@ -5,6 +5,9 @@ baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
 twitter_username: "fededat"
 
+# Logo Image Path (Add this line)
+logo: "/assets/images/SUPERCO2_TOP_WEB.jpg"
+
 # Navigation
 nav:
   - title: "Home"
@@ -19,7 +22,7 @@ nav:
     url: "/science-communication/"
   - title: "Upcoming Events"
     url: "/events/"
-  - title: "Contact"
+  - title: "Contacts"
     url: "/contact/"
 
 # Defaults
@@ -53,6 +56,8 @@ theme: minima
 footer:
   hosting: "Hosted on GitHub Pages"
   theme_credit: "Using Minima theme"
+
+
 
 # SEO settings
 jekyll-seo-tag:
