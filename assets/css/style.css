@@ -4,3 +4,9 @@
   width: auto;
   margin-right: 15px; /* Adjust spacing */
 }
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
