@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Book an activity"
-Nav_order: 2
+order: 2
 permalink: /talk/
 ---
 
