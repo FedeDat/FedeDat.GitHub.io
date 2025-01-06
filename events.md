@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Upcoming events"
-nav_order: 3
+Nav_order: 3
 permalink: /events/
 ---
 
