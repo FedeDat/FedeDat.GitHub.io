@@ -47,7 +47,7 @@ plugins:
   - jekyll-sitemap
 
 # Theme configuration (optional, if using a specific theme)
-theme: Reverie
+theme: minima
 
 # Footer information
 footer:
