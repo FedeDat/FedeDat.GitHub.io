@@ -8,15 +8,13 @@ lang: "it"  # Default language is English
 
 # Navigation configuration
 nav:
-
-  it:
-    - Home: /
-    - Chi sono: /it/federico/
-    - Prenota un'attività: /it/comunicazione/
-    - Eventi: /it/eventi/
-    - Ricerca: /it/ricerca/
-    - Corsi: /it/corsi/
-    - Contatti: /it/contatti/
+  - Home: /
+  - Chi sono: /it/federico/
+  - Prenota un'attività: /it/comunicazione/
+  - Eventi: /it/eventi/
+  - Ricerca: /it/ricerca/
+  - Corsi: /it/corsi/
+  - Contatti: /it/contatti/
 
 # Italian language configuration
 defaults:
