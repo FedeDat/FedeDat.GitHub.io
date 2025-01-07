@@ -1,7 +1,5 @@
 ---
 layout: page
-lang: it
-nav: it
 title: "Chi sono"
 order: 1
 permalink: /it/federico/
