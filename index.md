@@ -1,15 +1,3 @@
----
-ref: selector
-lang: en
----
-
-<ul class="languages">
-{% for lang in site.data.languages %}
-{% assign language = lang[1] %}
-<li><a lang="{{lang[0]}}" href="{{lang[0] | absolute_url}}">{{language.icon}} {{ language.label }}</a></li>
-{% endfor %}
-</ul>
-
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
 The use of fossil fuels has greatly increased CO<sub>2</sub> levels, driving climate change. While renewable energy sources like solar and wind power offer solutions for energy, most chemical production still relies on fossil fuels. The _Surface Polarization, Evolution, and Reconstruction for CO<sub>2</sub> Reduction_ project (SuPERCO2) aims to convert CO<sub>2</sub> into valuable chemicals like ethanol and ethylene using electrochemical cells.
