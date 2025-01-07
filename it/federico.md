@@ -1,5 +1,3 @@
-[English](../about-federico)
-
 ---
 layout: page
 title: "Federico"
