@@ -4,7 +4,7 @@ lang: en
 nav: en
 title: "Contacts"
 order: 6
-permalink: /contacts/
+permalink: /en/contacts/
 ---
 
 You can find me on [Twitter](https://twitter.com/FedeDat) (current X) e [LinkedIn](https://www.linkedin.com/in/federico-dattila/). 
