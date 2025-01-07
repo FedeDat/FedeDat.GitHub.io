@@ -1,7 +1,3 @@
----
-permalink: /en/research/
----
-
 # Current activity
 I currently work within the project [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004), which aims at the electrochemical conversion of CO<sub>2</sub> to useful products. 
 
