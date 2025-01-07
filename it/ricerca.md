@@ -1,5 +1,3 @@
-[English]({{ site.baseurl }}/research.html)
-
 ---
 layout: page
 title: "Ricerca"
