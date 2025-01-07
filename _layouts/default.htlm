@@ -1,0 +1,24 @@
+<!-- _layouts/default.html -->
+<html lang="{{ page.lang }}">
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        {% if page.lang == "en" %}
+          {% for item in site.nav.en %}
+            <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+          {% endfor %}
+        {% elsif page.lang == "it" %}
+          {% for item in site.nav.it %}
+            <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </nav>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
