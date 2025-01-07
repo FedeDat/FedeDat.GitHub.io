@@ -31,7 +31,7 @@ __Thursday, 18__ - Science game ["Hunting for CO<sub>2</sub>!"](https://www.bien
 <br>
 
 ## Book your own free event by accessing the tab below!
-The [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004) is funded by the European Commission and Federico's duties include as well free online and in-person communication activities for general audience (students, families, general audience).
+The [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004) is funded by the European Union and Federico's duties include as well free online and in-person communication activities for general audience (students, families, general audience).
 
 Access the communication offers [here](https://fededat.github.io/talk/) and follow the instructions to submit your request.
  
