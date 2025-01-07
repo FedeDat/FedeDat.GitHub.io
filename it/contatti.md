@@ -1,3 +1,5 @@
+[English](../contacts)
+
 ---
 layout: page
 title: "Contatti"
