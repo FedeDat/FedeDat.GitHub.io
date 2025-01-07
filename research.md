@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: en
+lang: "en"
 title: "Research"
 order: 4
 permalink: /research/
