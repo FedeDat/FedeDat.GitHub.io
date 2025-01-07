@@ -1,7 +1,7 @@
 # Default settings (for English)
 title: "Federico Dattila - Il cacciatore di anidride carbonica"
 email: "federico.dattila@polito.it"
-description: "Benvenuti sul mio sito personale, con informazioni su di me, sulla mia research, e sulle mia attività comunicative."
+description: "Benvenuti sul mio sito personale, con informazioni su di me, sulle mie ricerche, e sulle mie attività di comunicazione."
 baseurl: ""  # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io"  # Your GitHub Pages URL
 lang: "it"  # Default language is English
