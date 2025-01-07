@@ -1,1 +1,1 @@
-Website based on minima theme
+Website based on minima theme.
