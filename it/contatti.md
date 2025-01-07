@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: "it"
 title: "Contatti"
 order: 6
 permalink: /it/contatti/
