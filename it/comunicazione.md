@@ -1,5 +1,3 @@
-[English](../communication)
-
 ---
 layout: page
 title: "Prenota un'attività"
