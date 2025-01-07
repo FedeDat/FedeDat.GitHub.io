@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Federico"
+title: "Chi sono"
 order: 1
 permalink: /it/federico/
 ---
