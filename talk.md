@@ -2,7 +2,7 @@
 layout: page
 title: "Book an activity"
 order: 2
-permalink: /talk/
+permalink: /communication/
 ---
 
 ## Instruction for booking
