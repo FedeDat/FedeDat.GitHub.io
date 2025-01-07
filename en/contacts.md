@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Contacts"
 permalink: /en/contacts/
 ---
 
