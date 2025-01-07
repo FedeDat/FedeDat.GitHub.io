@@ -1,0 +1,11 @@
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+  <nav>
+    <ul>
+      {% for item in site.nav[page.lang] %}
+        <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
