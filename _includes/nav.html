@@ -1,15 +1,19 @@
 <nav>
   <ul>
     {% if page.lang == "en" %}
+      <!-- Render English pages -->
       {% for item in site.nav.en %}
         <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
       {% endfor %}
-      <li><a href="/it/">Go to Italian</a></li> <!-- Language switcher for Italian -->
+      <!-- Language switcher for Italian -->
+      <li><a href="/it/">Go to Italian</a></li>
     {% elsif page.lang == "it" %}
+      <!-- Render Italian pages -->
       {% for item in site.nav.it %}
         <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
       {% endfor %}
-      <li><a href="/">Go to English</a></li> <!-- Language switcher for English -->
+      <!-- Language switcher for English -->
+      <li><a href="/">Go to English</a></li>
     {% endif %}
   </ul>
 </nav>
