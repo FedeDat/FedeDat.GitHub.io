@@ -12,7 +12,7 @@ Pitch given during November 2024 by Dr. Federico Dattila, recipient of a Marie S
 <br>
 
 ## Applications of VASP to electochemical systems (in English)
-A must watch playlist to get used to applications of DFT to electrochemical systems!
+A must watch playlist to get used to applications of Density Functional Theory to electrochemical systems!
 
 # First class
 [![Applications of VASP to electrochemical systems - First class](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)
