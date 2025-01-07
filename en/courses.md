@@ -4,7 +4,7 @@ lang: en
 nav: en
 title: "Courses"
 order: 5
-permalink: /courses/
+permalink: /en/courses/
 ---
 
 ## How to apply for a Marie Skłodowska-Curie (in English)
