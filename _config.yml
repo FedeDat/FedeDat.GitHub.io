@@ -65,6 +65,3 @@ jekyll-seo-tag:
   lang: "it"
   author: "Federico Dattila"
 
-# Language selector
-language_selector: true
-
