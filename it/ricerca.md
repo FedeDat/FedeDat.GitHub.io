@@ -1,4 +1,4 @@
-[English](../research.html)
+[English]({{ site.baseurl }}/research.html)
 
 ---
 layout: page
