@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "About Federico"
 permalink: /en/about-federico/
 ---
