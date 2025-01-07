@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Courses"
 permalink: /en/courses/
 ---
 
