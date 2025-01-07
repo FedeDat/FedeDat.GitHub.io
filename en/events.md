@@ -1,7 +1,3 @@
----
-permalink: /en/events/
----
-
 ## Monthly calendar
 
 ## 2025
