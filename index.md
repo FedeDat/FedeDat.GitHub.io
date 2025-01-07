@@ -1,4 +1,14 @@
-[Clicca qui per la versione in Italiano](it/indice.html)
+---
+ref: selector
+lang: en
+---
+
+<ul class="languages">
+{% for lang in site.data.languages %}
+{% assign language = lang[1] %}
+<li><a lang="{{lang[0]}}" href="{{lang[0] | absolute_url}}">{{language.icon}} {{ language.label }}</a></li>
+{% endfor %}
+</ul>
 
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
