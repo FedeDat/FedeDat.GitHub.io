@@ -29,10 +29,18 @@ nav:
 # Italian language configuration
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: "it"
+      type: "pages"
     values:
-      layout: "post"
+      nav: "it"
+      lang: "it"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      nav: "en"
+      lang: "en"
+
 
 # Adding the Italian version of the site
 languages:
