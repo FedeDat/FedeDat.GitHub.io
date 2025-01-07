@@ -3,6 +3,7 @@ email: "federico.dattila@polito.it"
 description: "Welcome to my personal website, featuring myself, my research, my communication activities."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io" # Your GitHub Pages URL
+lang: "en"  # Default language is English
 
 # Navigation
 nav:
@@ -29,6 +30,15 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+# Adding Italian language configuration
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      lang: "it"
+      baseurl: "/it"  # The base URL for the Italian version
 
 # Exclude files from processing
 exclude:
