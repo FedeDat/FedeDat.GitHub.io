@@ -1,5 +1,4 @@
 ---
-title: "About Federico"
 permalink: /en/about-federico/
 ---
 
