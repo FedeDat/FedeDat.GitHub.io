@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
+  <meta name="author" content="{{ site.author }}">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        {% if site.lang == "it" %}
+          <!-- Italian Navigation -->
+          {% for item in site.nav.it %}
+            <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+          {% endfor %}
+        {% else %}
+          <!-- English Navigation -->
+          {% for item in site.nav.en %}
+            <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="language-switcher">
+      <ul>
+        {% if site.lang == "it" %}
+          <li><a href="{{ site.baseurl }}">English</a></li>
+        {% else %}
+          <li><a href="{{ site.baseurl }}/it/">Italiano</a></li>
+        {% endif %}
+      </ul>
+    </div>
+    <p>Hosted on GitHub Pages | Using Minima theme</p>
+  </footer>
+
+</body>
+</html>
