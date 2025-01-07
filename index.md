@@ -1,3 +1,10 @@
+---
+layout: default
+lang: "en"
+nav: "en"
+title: "Home"
+permalink: /
+---
 
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
