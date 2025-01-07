@@ -1,3 +1,5 @@
+[English](../events)
+
 ---
 layout: page
 title: "Prossimi eventi"
