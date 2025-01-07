@@ -1,4 +1,4 @@
-[Italiano](it/ricerca)
+[Italiano](it/ricerca.html)
 
 ---
 layout: page
