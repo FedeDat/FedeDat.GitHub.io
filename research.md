@@ -1,5 +1,3 @@
-[Italiano](it/ricerca.html)
-
 ---
 layout: page
 title: "Research"
