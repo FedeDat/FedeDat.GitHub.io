@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: "it"
 title: "Corsi"
 order: 5
 permalink: /it/corsi/
