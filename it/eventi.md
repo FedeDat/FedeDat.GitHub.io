@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Prossimi eventi"
+order: 3
+permalink: /it/eventi/
+---
+
 ## Calendario mensile
 
 ## 2025
