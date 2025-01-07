@@ -13,7 +13,7 @@ Seleziona una delle tre attività proposte di seguito e invia un'email a [federi
 
 ## Attività proposte
 
-# Gi-oca circoale (6-10 anni, 1 ora, in presenza)
+# Gi-oca circolare (6-10 anni, 1 ora, in presenza)
 Gioco tematico dell'Oca sulla economia circolare, sostenibilità e ambiente. Le squadre di bambini si sfideranno su un tabellone circolare, cercando di rispondere correttamente alle domande che troveranno in ogni casella. I dadi li faranno avanzare, mentre le caselle trappola o quelle di aiuto li faranno retrocedere o avanzare più velocemente fino alla "domanda finale", che determinerà la squadra vincitrice. Di solito, possono giocare 3-4 squadre, ciascuna composta da un minimo di due e un massimo di 5-6 giocatori. Durante il gioco, ai partecipanti potrebbe essere chiesto non solo di rispondere teoricamente alle domande, ma anche di disegnare o costruire molecole o eseguire piccoli esperimenti.
 
 # A caccia di CO<sub>2</sub> in giro per l'Europa (12-16 anni, 1 ora, in presenza)
