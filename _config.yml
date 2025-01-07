@@ -8,7 +8,7 @@ url: "https://fededat.github.io" # Your GitHub Pages URL
 nav:
   - Home: /
   - About Federico: /about-federico/
-  - Book an activity: /talk/
+  - Book an activity: /communication/
   - Upcoming Events: /events/
   - Research: /research/
   - Courses: /courses/
@@ -16,7 +16,7 @@ nav:
 
 header_pages:
   - about-federico.md
-  - talk.md
+  - communication.md
   - events.md
   - research.md
   - courses.md
