@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Book an activity"
 permalink: /en/communication/
 ---
 
