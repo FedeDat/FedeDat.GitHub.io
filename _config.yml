@@ -30,7 +30,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-multilingual  # Add this plugin
 
 # Theme configuration (optional, if using a specific theme)
 theme: minima
@@ -42,6 +41,4 @@ footer:
 
 # SEO settings
 jekyll-seo-tag:
-  lang: "it"
   author: "Federico Dattila"
-
