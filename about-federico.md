@@ -1,6 +1,7 @@
 ---
 layout: page
 lang: "en"
+nav: "en"
 title: "About Federico"
 order: 1
 permalink: /about-federico/
