@@ -1,6 +1,7 @@
 ---
 layout: page
 lang: "it"
+nav: "it"
 title: "Ricerca"
 order: 4
 permalink: /it/ricerca/
