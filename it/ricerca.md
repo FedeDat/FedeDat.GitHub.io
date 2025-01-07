@@ -1,4 +1,4 @@
-[English](../research)
+[English](../research.html)
 
 ---
 layout: page
