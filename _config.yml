@@ -26,16 +26,7 @@ nav:
     - Corsi: /it/corsi/
     - Contatti: /it/contatti/
 
-# Header pages (paths of pages)
-header_pages:
-  - about-federico.md
-  - communication.md
-  - events.md
-  - research.md
-  - courses.md
-  - contacts.md
-
-# Defaults
+# Italian language configuration
 defaults:
   - scope:
       path: ""
@@ -43,14 +34,14 @@ defaults:
     values:
       layout: "post"
 
-# Italian language configuration
-defaults:
-  - scope:
-      path: "it"
-      type: "pages"
-    values:
-      lang: "it"
-      baseurl: "/it"  # Base URL for the Italian version
+# Adding the Italian version of the site
+languages:
+  - lang: "en"
+    url: "/"
+    title: "Federico Dattila - The carbon dioxide hunter"
+  - lang: "it"
+    url: "/it/"
+    title: "Federico Dattila - Il cacciatore di anidride carbonica"
 
 # Exclude files from processing
 exclude:
@@ -67,6 +58,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-multilingual  # Add this plugin
 
 # Theme configuration (optional, if using a specific theme)
 theme: minima
@@ -83,12 +75,3 @@ jekyll-seo-tag:
 
 # Language selector
 language_selector: true
-
-# Adding the Italian version of the site
-languages:
-  - lang: "en"
-    url: "/"
-    title: "Federico Dattila - The carbon dioxide hunter"
-  - lang: "it"
-    url: "/it/"
-    title: "Federico Dattila - Il cacciatore di anidride carbonica"
