@@ -1,5 +1,3 @@
-[English](../courses)
-
 ---
 layout: page
 title: "Corsi"
