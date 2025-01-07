@@ -1,7 +1,0 @@
-{% if site.languages.size > 1 %}
-  <ul class="language-selector">
-    {% for language in site.languages %}
-      <li><a href="{{ site.baseurl }}{{ language.url }}">{{ language.lang | upcase }}</a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
