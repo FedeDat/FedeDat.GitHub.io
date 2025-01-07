@@ -12,7 +12,7 @@ nav:
   - Upcoming Events: /events/
   - Research: /research/
   - Courses: /courses/
-  - Contacts: /contact/
+  - Contacts: /contacts/
 
 header_pages:
   - about-federico.md
@@ -20,7 +20,7 @@ header_pages:
   - events.md
   - research.md
   - courses.md
-  - contact.md
+  - contacts.md
 
 # Defaults
 defaults:
