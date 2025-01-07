@@ -1,21 +1,21 @@
 # Default settings (for English)
-title: "Federico Dattila - The carbon dioxide hunter"
+title: "Federico Dattila - Il cacciatore di anidride carbonica"
 email: "federico.dattila@polito.it"
-description: "Welcome to my personal website, featuring myself, my research, my communication activities."
+description: "Benvenuti sul mio sito personale, con informazioni su di me, sulla mia research, e sulle mia attività comunicative."
 baseurl: ""  # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io"  # Your GitHub Pages URL
-lang: "en"  # Default language is English
+lang: "it"  # Default language is English
 
 # Navigation configuration
 nav:
   en:
-    - Home: /
-    - About Federico: /about-federico/
-    - Book an activity: /communication/
-    - Upcoming Events: /events/
-    - Research: /research/
-    - Courses: /courses/
-    - Contacts: /contacts/
+    - Home: /en/
+    - About Federico: /en/about-federico/
+    - Book an activity: /en/communication/
+    - Upcoming Events: /en/events/
+    - Research: /en/research/
+    - Courses: /en/courses/
+    - Contacts: /en/contacts/
 
   it:
     - Home: /it/
@@ -35,7 +35,7 @@ defaults:
       nav: "it"
       lang: "it"
   - scope:
-      path: ""
+      path: "en"
       type: "pages"
     values:
       nav: "en"
@@ -45,7 +45,7 @@ defaults:
 # Adding the Italian version of the site
 languages:
   - lang: "en"
-    url: "/"
+    url: "/en/"
     title: "Federico Dattila - The carbon dioxide hunter"
   - lang: "it"
     url: "/it/"
@@ -78,7 +78,7 @@ footer:
 
 # SEO settings
 jekyll-seo-tag:
-  lang: "en"
+  lang: "it"
   author: "Federico Dattila"
 
 # Language selector
