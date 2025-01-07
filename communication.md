@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: en
+lang: "en"
 title: "Book an activity"
 order: 2
 permalink: /communication/
