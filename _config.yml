@@ -25,13 +25,6 @@ defaults:
     values:
       nav: "it"
       lang: "it"
-  - scope:
-      path: "en"
-      type: "pages"
-    values:
-      nav: "en"
-      lang: "en"
-
 
 # Adding the Italian version of the site
 languages:
