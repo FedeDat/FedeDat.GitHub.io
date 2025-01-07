@@ -1,9 +1,6 @@
 ---
 layout: page
-lang: en
-nav: en
 title: "Courses"
-order: 5
 permalink: /en/courses/
 ---
 
