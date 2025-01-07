@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Prenota un'attività"
+order: 2
+permalink: /it/comunicazione/
+---
+
 ## Istruzioni per la prenotazione
 
 # Per famiglie e studenti
