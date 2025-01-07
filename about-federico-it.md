@@ -1,5 +1,5 @@
 <nav>
-  <a href="about-federico.html">English</a> | <a href="about-federico-it.html">Italiano</a>
+  <a href="about-federico.html">English</a> | <a href="federico.html">Italiano</a>
 </nav>
 
 <br>
