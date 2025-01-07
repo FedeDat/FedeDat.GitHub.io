@@ -6,7 +6,7 @@ permalink: /about-federico/
 ---
 
 <nav>
-  <a href="about-federico-it.html">Italiano</a> | <a href="about-federico.html">English</a> |
+  <a href="federico.html">Italiano</a> | <a href="about-federico.html">English</a> |
 </nav>
 
 <br>
