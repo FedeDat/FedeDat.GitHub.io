@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Upcoming events"
 permalink: /en/events/
 ---
 
