@@ -1,4 +1,4 @@
-[Italiano](it/indice.html)
+[Clicca qui per la versione in Italiano](it/indice.html)
 
 <img src="assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
