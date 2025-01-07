@@ -1,7 +1,3 @@
----
-permalink: /en/communication/
----
-
 ## Instruction for booking
 
 # For families and students
