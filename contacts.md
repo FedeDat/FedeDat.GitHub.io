@@ -2,7 +2,7 @@
 layout: page
 title: "Contacts"
 order: 6
-permalink: /contact/
+permalink: /contacts/
 ---
 # Contacts
 
