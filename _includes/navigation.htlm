@@ -1,0 +1,15 @@
+<nav>
+  <ul>
+    {% if page.lang == "en" %}
+      {% for item in site.nav.en %}
+        <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+      {% endfor %}
+      <li><a href="/it/">Go to Italian</a></li> <!-- Language switcher for Italian -->
+    {% elsif page.lang == "it" %}
+      {% for item in site.nav.it %}
+        <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+      {% endfor %}
+      <li><a href="/">Go to English</a></li> <!-- Language switcher for English -->
+    {% endif %}
+  </ul>
+</nav>
