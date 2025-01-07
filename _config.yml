@@ -1,6 +1,7 @@
 # Default settings (for English)
 title: "Federico Dattila - The carbon dioxide hunter"
 email: "federico.dattila@polito.it"
+footer_text: "<a href="{{ site.baseurl }}/">{{ "English" }}</a> | <a href="{{ site.baseurl }}/it/">{{ "Italiano" }}</a>"
 description: "Welcome to my personal website, featuring myself, my research, my communication activities."
 baseurl: ""  # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io"  # Your GitHub Pages URL
