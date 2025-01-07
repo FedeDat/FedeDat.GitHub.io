@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: "it"
 title: "Prossimi eventi"
 order: 3
 permalink: /it/eventi/
