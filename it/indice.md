@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 lang: "it"
 nav: "it"
 title: "Home"
