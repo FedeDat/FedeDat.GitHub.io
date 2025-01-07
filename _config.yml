@@ -1,3 +1,4 @@
+# Default settings (for English)
 title: "Federico Dattila - The carbon dioxide hunter"
 email: "federico.dattila@polito.it"
 description: "Welcome to my personal website, featuring myself, my research, my communication activities."
@@ -15,6 +16,7 @@ nav:
   - Courses: /courses/
   - Contacts: /contacts/
 
+# Header pages (paths of pages)
 header_pages:
   - about-federico.md
   - communication.md
@@ -23,7 +25,7 @@ header_pages:
   - courses.md
   - contacts.md
 
-# Defaults
+# Default page settings
 defaults:
   - scope:
       path: ""
@@ -31,14 +33,14 @@ defaults:
     values:
       layout: "post"
 
-# Adding Italian language configuration
+# Italian language configuration
 defaults:
   - scope:
-      path: ""
+      path: "it"
       type: "pages"
     values:
       lang: "it"
-      baseurl: "/it"  # The base URL for the Italian version
+      baseurl: "/it"  # Base URL for the Italian version
 
 # Exclude files from processing
 exclude:
@@ -68,3 +70,16 @@ footer:
 jekyll-seo-tag:
   lang: "en"
   author: "Federico Dattila"
+
+# Language selector (useful for switching between languages)
+language_selector: true
+
+# Adding the Italian version of the site
+languages:
+  - lang: "en"
+    url: "/"
+    title: "Federico Dattila - The carbon dioxide hunter"
+  - lang: "it"
+    url: "/it/"
+    title: "Federico Dattila - Il cacciatore di anidride carbonica"
+
