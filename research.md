@@ -18,6 +18,7 @@ SuPERCO2 addresses three specific Research & Innovation Objectives (R&IOs):
 
 ![SuPERCO2-scheme](https://github.com/user-attachments/assets/a32509d9-7ac5-47bb-b4f2-7b71f778bf0c)
 
+<br>
 
 # Publications
 You can access my publications on my [ORCID profile](https://orcid.org/0000-0001-8195-3951). All open access versions are available on my [Google Scholar](https://scholar.google.com/citations?user=wSmp_OwAAAAJ&hl=it) profile.
@@ -41,10 +42,14 @@ You can access my publications on my [ORCID profile](https://orcid.org/0000-0001
 17.	<ins>Dattila, F.</ins>; García-Muelas, R.; López, N. [https://pubs.acs.org/doi/pdf/10.1021/acsenergylett.0c01777](Active and selective ensembles in oxide-derived copper catalysts under CO<sub>2</sub> reduction conditions. _ACS Energy Lett._ __2020__, _5_, 3176–3184.
 18.	García-Muelas, R.; <ins>Dattila, F.</ins>; Shinagawa, T.; Martín, A. J.; Pérez-Ramírez, J.; López, N. [https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.8b03212](Origin of the selective electroreduction of carbon dioxide to formate by chalcogen modified copper). _J. Phys. Chem. Lett._ __2018__, _9_, 7153–7159.
 
+<br>
+
 #	Supervising and mentoring activities
 May 2024 / ongoing - Supervisor of 1 Ph.D. student and 1 Master student.
 
 March 2020 / December 2021 - Supervisor of 2 Ph.D. students and 1 Master student.
+
+<br>
  
 #	Organization of international conferences
 2024 Materials for Sustainable Development Conference (MATSUS Fall 24).
@@ -59,6 +64,8 @@ Member of the organizing committee.
 
 2021	International Conference on Electrocatalysis for Renewable Energy.
 Online, March 29. Member of the organizing committee.
+
+<br>
  
 # Scientific Presentations
 2024	Materials for Sustainable Development Conference (MATSUS Fall 24). Lausanne, Switzerland. November 14.
