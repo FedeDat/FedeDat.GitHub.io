@@ -1,6 +1,7 @@
 ---
 layout: page
 lang: "en"
+nav: "en"
 title: "Contacts"
 order: 6
 permalink: /contacts/
