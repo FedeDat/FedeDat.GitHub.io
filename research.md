@@ -68,38 +68,38 @@ Online, March 29. Member of the organizing committee.
 <br>
  
 # Scientific Presentations
-2024	Materials for Sustainable Development Conference (MATSUS Fall 24). Lausanne, Switzerland. November 14.
+2024	Materials for Sustainable Development Conference (MATSUS Fall 24). Lausanne, Switzerland. November 14.  
 __Oral presentation:__ Insights on the Electrochemical CO<sub>2</sub> Reduction Pathway via Ab Initio Analysis of Raman Spectroscopy Signals
 
-2024	75<sup>th</sup> Annual Meeting of the International Society of Electrochemistry. Montréal, Canada, August 22.
+2024	75<sup>th</sup> Annual Meeting of the International Society of Electrochemistry. Montréal, Canada, August 22.  
 __Oral presentation:__ Modeling Electrolyte Effects in Electrochemical CO<sub>2</sub> Reduction
 
-2023	74<sup>th</sup> Annual Meeting of the International Society of Electrochemistry. Lyon, France, September 3-8.
+2023	74<sup>th</sup> Annual Meeting of the International Society of Electrochemistry. Lyon, France, September 3-8.  
 __Poster presentation:__ Identifying Promising Ionic Liquids for Electrochemical CO<sub>2</sub> Reduction
 
-2022	National Innovation Prize. L’Aquila, Italy. December 1-2.
+2022	National Innovation Prize. L’Aquila, Italy. December 1-2.  
 <ins>Special mention Encubator</ins> assigned to start up project e-CO<sub>2</sub>Synth.
 
-2022	73<sup>rd</sup> Annual Meeting of the International Society of Electrochemistry. Online, September 12-16.
+2022	73<sup>rd</sup> Annual Meeting of the International Society of Electrochemistry. Online, September 12-16.  
 __Oral presentation:__ Modeling Surface Reconstruction of Cu-based catalysts under Electrochemical CO<sub>2</sub> Reduction Conditions
 
-2021	International Conference on Frontiers in Electrocatalytic Transformations. Valencia, Spain, November 22-23.
+2021	International Conference on Frontiers in Electrocatalytic Transformations. Valencia, Spain, November 22-23.  
 __Poster presentation:__ Modeling the Electrochemical Interface with Cations and Electric Field. <ins>Runner up Award</ins>.
 
-2021	nanoGe Fall Meeting 2021, Symposium SolCat21. (Photo-)Electrocatalysis: From the Atomistic to System Scale. Online, October 21.
+2021	nanoGe Fall Meeting 2021, Symposium SolCat21. (Photo-)Electrocatalysis: From the Atomistic to System Scale. Online, October 21.  
 __Oral presentation:__ Modeling Dynamic Processes at the Electrochemical Interface.
 
-2021	International Conference on Electrocatalysis for Renewable Energy. Online, March 29.
+2021	International Conference on Electrocatalysis for Renewable Energy. Online, March 29.  
 __Oral presentation:__ Active Ensembles and a New Selective Intermediate for CO<sub>2</sub> Reduction on Oxide-Derived Copper Catalysts.
 
-2020	International Conference on Electrocatalysis for Energy Applications and Sustainable Chemicals. Online, November 23-25.
+2020	International Conference on Electrocatalysis for Energy Applications and Sustainable Chemicals. Online, November 23-25.  
 __Invited Oral presentation:__ Active Ensembles and a New Selective Intermediate for CO<sub>2</sub> Reduction on Oxide-Derived Copper Catalysts.
 
-2019	ICIQ-RedINTECAT School. Tarragona, Spain, September 25-27.
+2019	ICIQ-RedINTECAT School. Tarragona, Spain, September 25-27.  
 __Oral presentation:__ Basicity-Driven Selectivity to Formate for Carbon Dioxide Reduction on Chalcogen Modified Copper
 
-2019	International Bunsen-Discussion-Meeting. Taormina, Italy, April 1-5.
+2019	International Bunsen-Discussion-Meeting. Taormina, Italy, April 1-5.  
 __Poster presentation:__ Chalcogen adatoms on copper as selective sites for the reduction of carbon dioxide to formate.
 
-2016	2<sup>nd</sup> UNI-SET Energy Clustering Event, Parallel sessions: Good practises in research, innovation and education. Polytechnic of Turin. Turin, Italy, September 26-28.
+2016	2<sup>nd</sup> UNI-SET Energy Clustering Event, Parallel sessions: Good practises in research, innovation and education. Polytechnic of Turin. Turin, Italy, September 26-28.  
 __Oral presentation:__ An interactive approach inside the university: how to feed sustainability on social networks and users’ proposals
