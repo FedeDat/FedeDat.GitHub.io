@@ -8,14 +8,6 @@ lang: "it"  # Default language is English
 
 # Navigation configuration
 nav:
-  en:
-    - Home: /en/
-    - About Federico: /en/about-federico/
-    - Book an activity: /en/communication/
-    - Upcoming Events: /en/events/
-    - Research: /en/research/
-    - Courses: /en/courses/
-    - Contacts: /en/contacts/
 
   it:
     - Home: /
