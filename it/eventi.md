@@ -4,9 +4,6 @@ title: "Prossimi eventi"
 order: 3
 permalink: /it/eventi/
 ---
-
-For the English version, click [here](https://fededat.github.io/en/events).
-
 ## Calendario mensile
 
 ## 2025
