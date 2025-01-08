@@ -2,7 +2,7 @@
 layout: page
 title: "Prossimi eventi"
 order: 3
-permalink: /it/eventi/
+permalink: /eventi/
 ---
 ## Calendario mensile
 
