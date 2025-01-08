@@ -1,0 +1,7 @@
+<ul>
+  {% for item in site.config.nav %}
+    {% assign title = item.first %}
+    {% assign url = item.last %}
+    <li><a href="{{ url }}">{{ title }}</a></li>
+  {% endfor %}
+</ul>
