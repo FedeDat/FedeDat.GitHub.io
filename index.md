@@ -1,4 +1,4 @@
-<img src="../assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
+<img src="/assets/images/SUPERCO2_SIDE_WEB.jpg" width="1000">
 
 L'uso dei combustibili fossili ha notevolmente aumentato i livelli di CO<sub>2</sub>, contribuendo al cambiamento climatico. Sebbene le fonti di energia rinnovabile come il solare e l'eolico offrano soluzioni per l'utilizzo diretto di energia, la maggior parte della produzione chimica dipende ancora dai combustibili fossili. Il progetto _Surface Polarization, Evolution, and Reconstruction for CO<sub>2</sub> Reduction_ (SuPERCO2) mira a convertire la CO<sub>2</sub> in prodotti chimici di valore come etanolo ed etilene utilizzando celle elettrochimiche.
 
