@@ -8,12 +8,12 @@ url: "https://fededat.github.io"  # Your GitHub Pages URL
 # Navigation configuration
 nav:
   - Home: /
-  - Chi sono: /1-federico/
-  - Prenota un'attività: /2-comunicazione/
-  - Eventi: /3-eventi/
-  - Ricerca: /4-ricerca/
-  - Corsi: /5-corsi/
-  - Contatti: /6-contatti/
+  - Chi sono: /federico/
+  - Prenota un'attività: /comunicazione/
+  - Eventi: /eventi/
+  - Ricerca: /ricerca/
+  - Corsi: /corsi/
+  - Contatti: /contatti/
 
 # Exclude files from processing
 exclude:
