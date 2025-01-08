@@ -6,25 +6,14 @@ baseurl: ""  # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io"  # Your GitHub Pages URL
 
 # Navigation configuration
-# nav:
-#  - Home: /
-#  - Chi sono: /federico/
-#  - Prenota un'attività: /comunicazione/
-#  - Eventi: /eventi/
-#  - Ricerca: /ricerca/
-#  - Corsi: /corsi/
-#  - Contatti: /contatti/
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-  - {title: "Home", path: "/"}
-  - {title: "Chi sono", path: "/federico/"}
-  - {title: "Prenota un'attività", path: "/comunicazione/"}
-  - {title: "Eventi", path: "/eventi/"}
-  - {title: "Ricerca", path: "/ricerca/"}
-  - {title: "Corsi", path: "/corsi/"}
-  - {title: "Contatti", path: "/contatti/"}
+ nav:
+  - Home: /
+  - Chi sono: /federico/
+  - Prenota un'attività: /comunicazione/
+  - Eventi: /eventi/
+  - Ricerca: /ricerca/
+  - Corsi: /corsi/
+  - Contatti: /contatti/
 
 # Exclude files from processing
 exclude:
