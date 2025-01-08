@@ -19,13 +19,13 @@ nav:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - Home: /
-  - Chi sono: /federico/
-  - Prenota un'attività: /comunicazione/
-  - Eventi: /eventi/
-  - Ricerca: /ricerca/
-  - Corsi: /corsi/
-  - Contatti: /contatti/
+  - {title: "Home", path: "/"}
+  - {title: "Chi sono", path: "/federico/"}
+  - {title: "Prenota un'attività", path: "/comunicazione/"}
+  - {title: "Eventi", path: "/eventi/"}
+  - {title: "Ricerca", path: "/ricerca/"}
+  - {title: "Corsi", path: "/corsi/"}
+  - {title: "Contatti", path: "/contatti/"}
 
 # Exclude files from processing
 exclude:
