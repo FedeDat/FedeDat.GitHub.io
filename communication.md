@@ -14,6 +14,7 @@ Seleziona una delle tre attività proposte di seguito e invia un'email a [federi
 - l'attività scelta;
 - età e numero di studenti;
 - opzione in presenza o online.
+- giorni e orari preferiti per l’attività (a partire da aprile 2025 compreso).
 
 <br>
 
