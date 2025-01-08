@@ -2,7 +2,7 @@
 layout: page
 title: "Prenota un'attività"
 order: 2
-permalink: /comunicazione/
+permalink: /communication/
 ---
 ## Istruzioni per la prenotazione
 
