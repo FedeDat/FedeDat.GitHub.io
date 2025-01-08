@@ -2,7 +2,7 @@
 layout: page
 title: "Corsi"
 order: 5
-permalink: /5.corsi/
+permalink: /5-corsi/
 ---
 ## Come candidarsi per una borsa Marie Skłodowska-Curie (in inglese)  
 Presentazione tenuta nel novembre 2024 dal Dott. Federico Dattila, destinatario di una borsa europea individuale Marie Skłodowska-Curie European nell'ambito del progetto SuPERCO2-101104004, nel panel CHE (Chimica), Supervisore: Prof.ssa Simelys Hernández, Ente ospitante: Politecnico di Torino. Presentazione organizzato dalla Commissione Progetti del Dipartimento di Scienza Applicata e Tecnologia (DISAT).  
