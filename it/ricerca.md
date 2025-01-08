@@ -4,9 +4,6 @@ title: "Ricerca"
 order: 4
 permalink: /it/ricerca/
 ---
-
-For the English version, click [here](https://fededat.github.io/en/research).
-
 # Attività attuale  
 Attualmente lavoro nell'ambito del progetto [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004), che mira alla conversione elettrochimica della CO<sub>2</sub> in prodotti utili.
 
