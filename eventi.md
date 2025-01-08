@@ -33,7 +33,3 @@ __Giovedì, 18__ - Gioco scientifico ["A caccia CO<sub>2</sub>!"](https://www.bi
 Il progetto [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004) è finanziato dall'Unione Europea e tra i compiti di Federico rientrano anche attività di comunicazione gratuite online e in presenza per il pubblico generale (studenti, famiglie, pubblico generico).
 
 Accedi alle offerte di comunicazione [qui](https://fededat.github.io/comunicazione/) e segui le istruzioni per inviare la tua richiesta.
-
----
-
-Se hai bisogno di ulteriori modifiche, fammi sapere!
