@@ -7,7 +7,7 @@ permalink: /communication/
 ## Istruzioni per la prenotazione
 
 # Per famiglie e studenti
-Accedi alla [lista degli eventi in programma](https://fededat.github.io/eventi/) e prenota le attività ad accesso aperto seguendo il link disponibile.
+Accedi alla [lista degli eventi in programma](https://fededat.github.io/events/) e prenota le attività ad accesso aperto seguendo il link disponibile.
 
 # Per le scuole
 Seleziona una delle tre attività proposte di seguito e invia un'email a [federico.dattila@polito.it](mailto:federico.dattila@polito.it) specificando:
