@@ -4,9 +4,6 @@ title: "Prenota un'attività"
 order: 2
 permalink: /it/comunicazione/
 ---
-
-For the English version, click [here](https://fededat.github.io/en/communication).
-
 ## Istruzioni per la prenotazione
 
 # Per famiglie e studenti
