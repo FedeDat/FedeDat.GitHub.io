@@ -2,7 +2,7 @@
 layout: page
 title: "Contatti"
 order: 6
-permalink: /6-contatti/
+permalink: /contatti/
 ---
 
 Puoi trovarmi su [Twitter](https://twitter.com/FedeDat) (attualmente X) e [LinkedIn](https://www.linkedin.com/in/federico-dattila/).  
