@@ -41,6 +41,8 @@ Di seguito le mie attività di comunicazione scientifica pubblicate su YouTube i
 [![FameLab Italia - Finale nazionale 2022](https://img.youtube.com/vi/OBpRP93BrFg/0.jpg)](https://www.youtube.com/watch?v=OBpRP93BrFg)
 # Selezione Torino FameLab Italia 2022 (in italiano)
 [![FameLab Italia - Selezione Finale Torino 2022](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
+# Ciclo di seminari "S.O.S. - La terra chiama! (in spagnolo)
+[![Conferenza scientifica ad invito "Il diossido di carbonio, l'oro nero del XXI secolo"](https://img.youtube.com/vi/hPD_MzgRyBI?si=1Q2yT2P-DzXKVqGW/0.jpg)](https://youtu.be/hPD_MzgRyBI?si=1Q2yT2P-DzXKVqGW)
 # Concorso spagnolo "Vuoi sapere cosa ricerco?", Selezione FameLab Spagna 2018 (in spagnolo)
 [![Concorso "Vols saber què investigo?" 2018](https://img.youtube.com/vi/jDeX1o5lK1w/0.jpg)](https://www.youtube.com/watch?v=jDeX1o5lK1w)
 # Conferenza scientifica "Il diossido di carbonio, l'oro nero del XXI secolo", Notte Europea dei Ricercatori 2021 (in spagnolo)
