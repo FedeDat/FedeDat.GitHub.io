@@ -35,6 +35,10 @@ Che cos'è il cambiamento climatico? Come lo affrontiamo? Cos'è la riduzione el
 
 Di seguito le mie attività di comunicazione scientifica pubblicate su YouTube in italiano e spagnolo.
 
+# Finale nazionale Premio GiovedìScienza 2025 (in italiano)
+[![GiovedìScienza - Finale nazionale 2025](https://img.youtube.com/vi/CpOnjhXp_Hc/0.jpg)](https://youtu.be/CpOnjhXp_Hc?si=L347pw-qrQ9o213Q&t=3741)
+# Candidatura al Premio GiovedìScienza 2025 (in italiano)
+[![GiovedìScienza - Finale nazionale 2025](https://img.youtube.com/vi/jE4bFYK9OhE/0.jpg)](https://www.youtube.com/watch?v=jE4bFYK9OhE)
 # Finale nazionale Premio GiovedìScienza 2024 (in italiano)
 [![GiovedìScienza - Finale nazionale 2024](https://img.youtube.com/vi/eFGHrO9vWLU/0.jpg)](https://www.youtube.com/watch?v=eFGHrO9vWLU)
 # Finale nazionale FameLab Italia 2022 (in italiano)
