@@ -15,7 +15,6 @@ Seleziona una delle tre attività proposte di seguito e invia un'email a [federi
 - età e numero di studenti;
 - opzione in presenza o online.
 - giorni e orari preferiti per l’attività (a partire da aprile 2025 compreso).
-
 <br>
 
 # Attività proposte
@@ -28,16 +27,15 @@ Ti sei mai chiesto come combattere il cambiamento climatico, ma soprattutto, per
 
 ## Diventa il boss delle Wiki! (16-19 anni, 1 ora, online o in presenza)  
 Che cos'è il cambiamento climatico? Come lo affrontiamo? Cos'è la riduzione elettrochimica del CO<sub>2</sub>? Il Dr. Federico Dattila del Politecnico di Torino spiegherà alla classe l'urgenza della lotta contro il cambiamento climatico e le tecnologie disponibili per ridurre le emissioni di gas serra nell'atmosfera. Per garantire che le conoscenze non vengano perse, ci sarà un breve workshop dopo la presentazione dove verranno introdotti gli strumenti base per creare voci su [Wikipedia](https://it.wikipedia.org/wiki/Pagina_principale), per aumentare l'accesso del pubblico alla conoscenza scientifica!
-
 <br>
 
 # Esperienze precedenti
-- __Martedì 7 ottobre 2025__ - Gioco scientifico ["Gi-oca circolare"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Primaria Nino Costa di Torino nell'ambito della Notte Europea dei Ricercatori UNIGHT.
-- __Lunedì 14 aprile 2025__ - Conferenza scientifica "A caccia di CO<sub>2</sub> attraverso l'Europa" presso il Liceo Majorana di Torino.
-- __Venerdì 27 settembre 2024__ - Gioco scientifico ["Gi-oca circolare a caccia di CO<sub>2</sub>!"](https://unightproject.eu/it/eventi/la-notte-europea-delle-ricercatrici-e-dei-ricercatori-torino?day=1727395200&ecat=32&topics=19&sort=default)
-- __Giovedì 16 maggio 2024__ - [Finale nazionale del Premio GiovedìScienza](https://www.giovediscienza.it/it/premio-edizioni-precedenti), Torino.
-- __Sabato 20 aprile 2024__ - Gioco scientifico ["A caccia di CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/) durante la Biennale Tecnologia, Torino.
-- __Giovedì 18 aprile 2024__ - Gioco scientifico ["A caccia CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2/) durante la Biennale Tecnologia, Torino.
+- _Martedì 7 ottobre 2025_ - Gioco scientifico ["Gi-oca circolare"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Primaria Nino Costa di Torino nell'ambito della Notte Europea dei Ricercatori UNIGHT.
+- _Lunedì 14 aprile 2025_ - Conferenza scientifica "A caccia di CO<sub>2</sub> attraverso l'Europa" presso il Liceo Majorana di Torino.
+- _Venerdì 27 settembre 2024_ - Gioco scientifico ["Gi-oca circolare a caccia di CO<sub>2</sub>!"](https://unightproject.eu/it/eventi/la-notte-europea-delle-ricercatrici-e-dei-ricercatori-torino?day=1727395200&ecat=32&topics=19&sort=default)
+- _Giovedì 16 maggio 2024_ - [Finale nazionale del Premio GiovedìScienza](https://www.giovediscienza.it/it/premio-edizioni-precedenti), Torino.
+- _Sabato 20 aprile 2024_ - Gioco scientifico ["A caccia di CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/) durante la Biennale Tecnologia, Torino.
+- _Giovedì 18 aprile 2024_ - Gioco scientifico ["A caccia CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2/) durante la Biennale Tecnologia, Torino.
 
 # Video online
 
