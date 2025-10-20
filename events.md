@@ -9,8 +9,8 @@ permalink: /events/
 # 2025
 
 ## Ottobre 2025
-__ Giovedì, 23__ - Gioco scientifico ["Gi-oca circolare"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Primaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.  
-__ Giovedì, 23__ - Gioco scientifico ["A caccia di CO<sub>2</sub>!"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Secondaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.  
+- _Giovedì, 23_ - Gioco scientifico ["Gi-oca circolare"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Primaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.  
+- _Giovedì, 23_ - Gioco scientifico ["A caccia di CO<sub>2</sub>!"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Secondaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.  
 
 <br>
 
