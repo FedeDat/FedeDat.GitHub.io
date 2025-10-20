@@ -73,7 +73,7 @@ Member del comitato organizzatore.
 __Presentazione orale:__ Automatizing data storage, analysis, and sharing for the electrochemical CO<sub>2</sub> reduction - the FAIR case of SuPERCO2
 
 2025 76<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Mainz, Germania, 7-12 settembre.  
-__Presentazione orale:__ CO<sub>2</sub> Reduction on Ni-based Catalysts: Effect of Applied Current Density, Electrolyte, and Binder
+__Presentazione orale:__ CO<sub>2</sub> Reduction on Ni-based Catalysts: Effect of Applied Current Density, Electrolyte, and Binder  
 __Presentazione con poster:__ Descriptors for Electrochemical CO<sub>2</sub> Reduction in Imidazolium-Based Electrolytes
 
 2024  Materials for Sustainable Development Conference (MATSUS Fall 24). Losanna, Svizzera. 14 novembre.  
