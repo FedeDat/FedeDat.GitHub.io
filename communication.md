@@ -32,6 +32,12 @@ Che cos'è il cambiamento climatico? Come lo affrontiamo? Cos'è la riduzione el
 <br>
 
 # Esperienze precedenti
+-
+-
+-
+-
+
+# Video online
 
 Di seguito le mie attività di comunicazione scientifica pubblicate su YouTube in italiano e spagnolo.
 
@@ -52,4 +58,3 @@ Di seguito le mie attività di comunicazione scientifica pubblicate su YouTube i
 ## Conferenza scientifica "Il diossido di carbonio, l'oro nero del XXI secolo", Notte Europea dei Ricercatori 2021 (in spagnolo)
 [![Notte Europea dei Ricercatori - 2021](https://img.youtube.com/vi/d6NfSE_7PA0/0.jpg)](https://www.youtube.com/watch?v=d6NfSE_7PA0)
 
-## Divulgazione scientifica nelle scuole
