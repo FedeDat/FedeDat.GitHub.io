@@ -28,10 +28,13 @@ Ti sei mai chiesto come combattere il cambiamento climatico, ma soprattutto, per
 Che cos'è il cambiamento climatico? Come lo affrontiamo? Cos'è la riduzione elettrochimica del CO<sub>2</sub>? Il Dr. Federico Dattila del Politecnico di Torino spiegherà alla classe l'urgenza della lotta contro il cambiamento climatico e le tecnologie disponibili per ridurre le emissioni di gas serra nell'atmosfera. Per garantire che le conoscenze non vengano perse, ci sarà un breve workshop dopo la presentazione dove verranno introdotti gli strumenti base per creare voci su [Wikipedia](https://it.wikipedia.org/wiki/Pagina_principale), per aumentare l'accesso del pubblico alla conoscenza scientifica!
 
 # Esperienze precedenti
+- _Giovedì 23 ottobre 2025_ - Gioco scientifico "Gi-oca circolare" presso Scuola Primaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.
+- _Giovedì 23 ottobre 2025_ - Gioco scientifico "A caccia di CO2!" presso Scuola Secondaria di Villanova d'Asti nell'ambito della Notte Europea dei Ricercatori UNIGHT.
 - _Martedì 7 ottobre 2025_ - Gioco scientifico ["Gi-oca circolare"](https://unightproject.eu/it/attivita-le-scuole) presso Scuola Primaria Nino Costa di Torino nell'ambito della Notte Europea dei Ricercatori UNIGHT.
+- _Lunedì 26 maggio 2025_ - [Finale nazionale del Premio GiovedìScienza 2025](https://www.giovediscienza.it/it/premio-quattordicesima), Torino.
 - _Lunedì 14 aprile 2025_ - Conferenza scientifica "A caccia di CO<sub>2</sub> attraverso l'Europa" presso il Liceo Majorana di Torino.
 - _Venerdì 27 settembre 2024_ - Gioco scientifico ["Gi-oca circolare a caccia di CO<sub>2</sub>!"](https://unightproject.eu/it/eventi/la-notte-europea-delle-ricercatrici-e-dei-ricercatori-torino?day=1727395200&ecat=32&topics=19&sort=default)
-- _Giovedì 16 maggio 2024_ - [Finale nazionale del Premio GiovedìScienza](https://www.giovediscienza.it/it/premio-edizioni-precedenti), Torino.
+- _Giovedì 16 maggio 2024_ - [Finale nazionale del Premio GiovedìScienza 2024](https://www.youtube.com/playlist?list=PL-2Cau-rup8z2O3q_lrf2rFweGSwAecSC), Torino.
 - _Sabato 20 aprile 2024_ - Gioco scientifico ["A caccia di CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2-3/) durante la Biennale Tecnologia, Torino.
 - _Giovedì 18 aprile 2024_ - Gioco scientifico ["A caccia CO<sub>2</sub>!"](https://www.biennaletecnologia.it/evento/a-caccia-di-co2/) durante la Biennale Tecnologia, Torino.
 
