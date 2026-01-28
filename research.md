@@ -5,11 +5,9 @@ order: 4
 permalink: /research/
 ---
 # Attività attuale  
-Attualmente lavoro nell'ambito del progetto [SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004), che mira alla conversione elettrochimica della CO<sub>2</sub> in prodotti utili.
+[SuPERCO2-101104004](https://cordis.europa.eu/project/id/101104004) ha affrontato tre specifici Obiettivi di Ricerca e Innovazione (R&IO):
 
-SuPERCO2 affronta tre specifici Obiettivi di Ricerca e Innovazione (R&IO):
-
-(i) __R&IO-1__ (WP.1, T.1.3): Creazione di un database modulare open-source per condividere i dati sperimentali di uno studio ad alto rendimento sui catalizzatori per la riduzione elettrochimica della CO<sub>2</sub> (eCO<sub>2</sub>R), in collaborazione con il dipartimento di Ingegneria Informatica del Politecnico di Torino (POLITO), l'Istituto di Ricerca Chimica della Catalogna (ICIQ) e il partner associato EPFL. Una versione preliminare del database è accessibile [qui](https://github.com/FedeDat/SuPERCO2).
+(i) __R&IO-1__ (WP.1, T.1.3): Creazione di un database modulare open-source per condividere i dati sperimentali di uno studio ad alto rendimento sui catalizzatori per la riduzione elettrochimica della CO<sub>2</sub> (eCO<sub>2</sub>R), in collaborazione con il dipartimento di Ingegneria Informatica del Politecnico di Torino (POLITO), l'Istituto di Ricerca Chimica della Catalogna (ICIQ) e il partner associato EPFL. Il database è accessibile [qui](https://github.com/FedeDat/SuPERCO2).
 
 (ii) __R&IO-2__ (WP.2, T.2.2): Sviluppo di un modello multiscala che include approfondimenti atomistici dalla Density Functional Theory (DFT) e effetti di trasferimento di massa dalla modellazione COMSOL per guidare l'ottimizzazione dei GDE.
 
