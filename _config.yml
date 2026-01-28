@@ -1,7 +1,7 @@
 # Default settings (for English)
 title: "Federico Dattila - Il cacciatore di anidride carbonica"
-email: "federico.dattila@polito.it"
-description: "Benvenuti sul mio sito personale, con informazioni su di me, sulle mie ricerche, e sulle mie attività di comunicazione."
+email: "federico.dattila@gmail.com"
+description: "Benvenuti sul mio personale del progetto SuPERCO2, portato avanti dal Dr. Federico Dattila da marzo 2024 a febbraio 2026."
 baseurl: ""  # The subpath of your site, e.g., /blog
 url: "https://fededat.github.io"  # Your GitHub Pages URL
 
