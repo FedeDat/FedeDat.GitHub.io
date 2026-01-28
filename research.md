@@ -69,6 +69,12 @@ Member del comitato organizzatore.
 
 # Presentazioni scientifiche  
 
+2026 DiSAT Research Days del Politecnico di Torino. Torino, Italia. 21 gennaio
+__Presentazione orale:__ Automatizing data storage, analysis, and sharing for the electrochemical CO<sub>2</sub> reduction – the FAIR case of SuPERCO2
+
+2025 Seminario presso il Center for High Entropy Alloy Catalysis (CHEAC) all'Università di Copenhagen, su invito della Prof.ssa Pittkowski. Copenhagen, Danimarca. 12 dicembre.
+__Presentazione orale:__ Open Science in CO<sub>2</sub> Electroreduction
+
 2025 5<sup>th</sup> International Meeting on Materials Science for Energy Related Applications. Belgrado, Serbia. 25 settembre.
 __Presentazione orale:__ Automatizing data storage, analysis, and sharing for the electrochemical CO<sub>2</sub> reduction - the FAIR case of SuPERCO2
 
@@ -76,38 +82,38 @@ __Presentazione orale:__ Automatizing data storage, analysis, and sharing for th
 __Presentazione orale:__ CO<sub>2</sub> Reduction on Ni-based Catalysts: Effect of Applied Current Density, Electrolyte, and Binder  
 __Presentazione con poster:__ Descriptors for Electrochemical CO<sub>2</sub> Reduction in Imidazolium-Based Electrolytes
 
-2024  Materials for Sustainable Development Conference (MATSUS Fall 24). Losanna, Svizzera. 14 novembre.  
+2024 Materials for Sustainable Development Conference (MATSUS Fall 24). Losanna, Svizzera. 14 novembre.  
 __Presentazione orale:__ Insights on the Electrochemical CO<sub>2</sub> Reduction Pathway via Ab Initio Analysis of Raman Spectroscopy Signals
 
-2024  75<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Montréal, Canada, 22 agosto.  
+2024 75<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Montréal, Canada, 22 agosto.  
 __Presentazione orale:__ Modeling Electrolyte Effects in Electrochemical CO<sub>2</sub> Reduction
 
-2023  74<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Lione, Francia, 3-8 settembre.  
+2023 74<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Lione, Francia, 3-8 settembre.  
 __Presentazione con poster:__ Identifying Promising Ionic Liquids for Electrochemical CO<sub>2</sub> Reduction
 
-2022  National Innovation Prize. L’Aquila, Italia. 1-2 dicembre.  
+2022 National Innovation Prize. L’Aquila, Italia. 1-2 dicembre.  
 <ins>Menzione speciale Encubator</ins> assegnato al progetto di start-up e-CO<sub>2</sub>Synth.
 
-2022  73<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Online, 12-16 settembre.  
+2022 73<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Online, 12-16 settembre.  
 __Presentazione orale:__ Modeling Surface Reconstruction of Cu-based catalysts under Electrochemical CO<sub>2</sub> Reduction Conditions
 
-2021  International Conference on Frontiers in Electrocatalytic Transformations. Valencia, Spagna, 22-23 novembre.  
+2021 International Conference on Frontiers in Electrocatalytic Transformations. Valencia, Spagna, 22-23 novembre.  
 __Presentazione con poster:__ Modeling the Electrochemical Interface with Cations and Electric Field. <ins>Runner up Award</ins>.
 
-2021  nanoGe Fall Meeting 2021, Symposium SolCat21. (Foto-)Elettrocatalisi: Dall'atomo al sistema. Online, 21 ottobre.  
+2021 nanoGe Fall Meeting 2021, Symposium SolCat21. (Foto-)Elettrocatalisi: Dall'atomo al sistema. Online, 21 ottobre.  
 __Presentazione orale:__ Modeling Dynamic Processes at the Electrochemical Interface.
 
-2021  International Conference on Electrocatalysis for Renewable Energy. Online, 29 marzo.  
+2021 International Conference on Electrocatalysis for Renewable Energy. Online, 29 marzo.  
 __Presentazione orale:__ Active Ensembles and a New Selective Intermediate for CO<sub>2</sub> Reduction on Oxide-Derived Copper Catalysts.
 
-2020  International Conference on Electrocatalysis for Energy Applications and Sustainable Chemicals. Online, 23-25 novembre.  
+2020 International Conference on Electrocatalysis for Energy Applications and Sustainable Chemicals. Online, 23-25 novembre.  
 __Presentazione orale invitata:__ Active Ensembles and a New Selective Intermediate for CO<sub>2</sub> Reduction on Oxide-Derived Copper Catalysts.
 
-2019  ICIQ-RedINTECAT School. Tarragona, Spagna, 25-27 settembre.  
+2019 ICIQ-RedINTECAT School. Tarragona, Spagna, 25-27 settembre.  
 __Presentazione orale:__ Basicity-Driven Selectivity to Formate for Carbon Dioxide Reduction on Chalcogen Modified Copper.
 
-2019  International Bunsen-Discussion-Meeting. Taormina, Italia, 1-5 aprile.  
+2019 International Bunsen-Discussion-Meeting. Taormina, Italia, 1-5 aprile.  
 __Presentazione con poster:__ Chalcogen adatoms on copper as selective sites for the reduction of carbon dioxide to formate.
 
-2016  2<sup>°</sup> UNI-SET Energy Clustering Event, Sessioni parallele: Parallel sessions: Good practises in research, innovation and education. Politecnico di Torino. Torino, Italia, 26-28 settembre.  
+2016 2<sup>°</sup> UNI-SET Energy Clustering Event, Sessioni parallele: Parallel sessions: Good practises in research, innovation and education. Politecnico di Torino. Torino, Italia, 26-28 settembre.  
 __Presentazione orale:__ An interactive approach inside the university: how to feed sustainability on social networks and users’ proposals
