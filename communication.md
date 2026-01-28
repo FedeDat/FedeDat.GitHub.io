@@ -10,7 +10,7 @@ permalink: /communication/
 Accedi alla [lista degli eventi in programma](https://fededat.github.io/events/) e prenota le attività ad accesso aperto seguendo il link disponibile.
 
 ## Per le scuole
-Seleziona una delle tre attività proposte di seguito e invia un'email a [federico.dattila@polito.it](mailto:federico.dattila@polito.it) specificando:
+Seleziona una delle tre attività proposte di seguito e invia un'email a [federico.dattila@gmail.com](mailto:federico.dattila@gmail.com) specificando:
 - l'attività scelta;
 - età e numero di studenti;
 - opzione in presenza o online.
