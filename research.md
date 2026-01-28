@@ -22,7 +22,7 @@ SuPERCO2 affronta tre specifici Obiettivi di Ricerca e Innovazione (R&IO):
 # Pubblicazioni
 Puoi accedere alle mie pubblicazioni sul mio [profilo ORCID](https://orcid.org/0000-0001-8195-3951). Tutte le versioni open access sono disponibili sul mio profilo [Google Scholar](https://scholar.google.com/citations?user=wSmp_OwAAAAJ&hl=it).
 
-1. <ins>Dattila, F.</ins>. [Binding and release in balance](https://www.nature.com/articles/s41560-025-01884-9). _Nat. Energy_, __2025__, DOI: 10.1038/s41560-025-01884-9.
+1. <ins>Dattila, F.</ins>. [Binding and release in balance](https://www.nature.com/articles/s41560-025-01884-9). _Nat. Energy_, __2025__, _10_, 1189–1190.
 2. <ins>Dattila, F.</ins>†; López, N. [The Potential of Cations for Carbon Dioxide Electroreduction](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202500749). _ChemCatChem_, __2025__, _17_, e00749. † = Corresponding author.
 3.	<ins>Dattila, F.</ins>; Fortunati, A.; Zammillo, F.; Guzmán, H.; López, N.; Hernández, S. [Descriptors for Electrochemical CO<sub>2</sub> Reduction in Imidazolium-Based Electrolytes](https://doi.org/10.1021/acscatal.4c05012). _ACS Catal._, __2024__, _14_, 16166–16174.
 4.	Zhan, C.†; <ins>Dattila, F.</ins>†; Rettenmaier, C.; Herzog, A.; Herran, M.; Wagner, T.; Scholten, F.; Bergmann, A.; López, N.; Roldan Cuenya, B. [https://doi.org/10.1038/s41560-024-01633-4](Key Intermediates and Cu active sites for CO<sub>2</sub> electroreduction to ethylene and ethanol). _Nat. Energy_ __2024__, _9_, 1485–1496. † = Equal contribution.
