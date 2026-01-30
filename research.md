@@ -67,13 +67,13 @@ Member del comitato organizzatore.
 
 # Presentazioni scientifiche  
 
-2026 DiSAT Research Days del Politecnico di Torino. Torino, Italia. 21 gennaio
+2026 DiSAT Research Days del Politecnico di Torino. Torino, Italia. 21 gennaio.  
 __Presentazione orale:__ Automatizing data storage, analysis, and sharing for the electrochemical CO<sub>2</sub> reduction – the FAIR case of SuPERCO2
 
 2025 Seminario presso il Center for High Entropy Alloy Catalysis (CHEAC) all'Università di Copenhagen, su invito della Prof.ssa Pittkowski. Copenhagen, Danimarca. 12 dicembre.
 __Presentazione orale:__ Open Science in CO<sub>2</sub> Electroreduction
 
-2025 5<sup>th</sup> International Meeting on Materials Science for Energy Related Applications. Belgrado, Serbia. 25 settembre.
+2025 5<sup>th</sup> International Meeting on Materials Science for Energy Related Applications. Belgrado, Serbia. 25 settembre. 
 __Presentazione orale:__ Automatizing data storage, analysis, and sharing for the electrochemical CO<sub>2</sub> reduction - the FAIR case of SuPERCO2
 
 2025 76<sup>°</sup> Annual Meeting of the International Society of Electrochemistry. Mainz, Germania, 7-12 settembre.  
